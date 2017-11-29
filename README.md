@@ -11,6 +11,11 @@ Posizionarli nella cartella relativa al notebook una volta completato il downloa
 
 In questo repository si esemplifica l'utilizzo degli algoritmi 
 avanzati dell'Intelligenza Artificiale e del Machine Learning 
-e se ne esplorano le caratteristiche a seconda della tecnica utilizzata
-(vedi [Regression](Regression/) - [Classification](Classification/) - [DeepLearning](DeepLearning/)) utilizzando GraphLab Create.
+e se ne esplorano le caratteristiche a seconda della tecnica 
+utilizzando GraphLab Create:
+
+* [Regression](Regression/)
+* [Classification](Classification/) 
+* [DeepLearning](DeepLearning/)
+
 I Notebook sono enumerati in modo da fornire una progressivo aumento della complessità.
