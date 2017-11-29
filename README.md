@@ -1,5 +1,7 @@
 # Machine Learning
 
+|build-status| |pypi-status| |pypi-pyversions|
+
 Necessita dei seguenti dataset:
 
 1. TITANIC.csv [<a href="#">download</a>]
